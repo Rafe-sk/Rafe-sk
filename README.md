@@ -49,7 +49,6 @@
 </div>
 <h2> Skills &amp; Languages</h2>
 <details>
-    <summary>Show skills and languages</summary>
   <div align="left">
     <h4>IDEs:</h4>
     <p>
