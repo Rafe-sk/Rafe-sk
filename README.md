@@ -1,13 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Rafe Shaikh's Profile</title>
-</head>
-<body>
-
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Rafe-sk.Rafe-sk" />
 
 <h1 align="center">
