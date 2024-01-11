@@ -36,7 +36,9 @@
         <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="twitter logo"  />
     </a>
 </p>
-
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
 <h2>Skills &amp; Languages</h2>
 <div align="left">
     <h4>IDEs:</h4>
@@ -60,7 +62,9 @@
         <img src="https://img.shields.io/badge/wix-0078d7.svg?style=for-the-badge&logo=&logoColor=black" width="50" height="50" theme="light">
     </p>
 </div>
-
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
 <h2>GitHub Stats:</h2>
 <div align="center">
     <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafe-sk&theme=algolia&hide_border=true&langs_count=5" alt="Most used languages" /></p>
@@ -71,7 +75,9 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rafe-sk&theme=aura" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rafe-sk&theme=aura&utcOffset=5.3" />
 </div>
-
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
 <div align="left">
     <h2>My Contributions</h2>
     <br>
