@@ -17,6 +17,9 @@
     <p><font color="blue">🌱 Currently diving deep into Python</font></p>
     <p><font color="blue">⚡ Passionate about Animation and AI</font></p>
 </div>
+<div align="left">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
 
 <h2>Get in Touch</h2>
 <p>
