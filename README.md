@@ -54,7 +54,10 @@
     <img src="https://skillicons.dev/icons?i=c theme=light" width="50" height="50" />
     <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="60" height="60" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Scratch.logo.S.png" width="50" height="50">
-    <h4>Version Control:</h4>
+    <img src="https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png" width="50" height="50">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3iHW9F8U24tel7OWvX4YKDzZH1n8Kt42Zsw&usqp=CAU" width="50" height="50">
+    <img src="https://w1.pngwing.com/pngs/136/126/png-transparent-javascript-logo-angularjs-nodejs-computer-programming-web-development-computer-software-jquery-yellow.png" width="50"       height="50">
+        <h4>Version Control:</h4>
     <p>
         <img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
     </p>
