@@ -3,7 +3,6 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+to+my+profile;+I'm+Rafe+Shaikh!" />
 </h1>
-<img src="https://th.bing.com/th/id/OIG.OgN3oAI9L9H7FELVcSFU?w=270&h=270&c=6&r=0&o=5&dpr=2&pid=ImgGn" height="350" width="100%">
 <h3 align="left">
     <font color="blue">About me:</font>
 </h3>
