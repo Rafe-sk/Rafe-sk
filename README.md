@@ -13,8 +13,8 @@
     <p><font color="blue">👨‍💻 I live in Mumbai, Bharat 🇮🇳</font></p>
     <p><font color="blue">👨‍💻 First-year B.Tech student at ITM Skills University</font></p>
     <p><font color="blue">🚀 Coding enthusiast exploring the world of programming</font></p>
-    <p><font color="blue">🌱 Currently diving deep into Python</font></p>
-    <p><font color="blue">⚡ Passionate about Animation and AI</font></p>
+    <p><font color="blue">🌱 Currently diving deep into React</font></p>
+    <p><font color="blue">⚡ Passionate about Front-End and AI</font></p>
 </div>
 <div align="left">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
